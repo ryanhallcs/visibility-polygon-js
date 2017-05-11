@@ -2,9 +2,9 @@
   "name": "visibility-polygon-js",
   "version": "1.0.0",
   "description": "visibility_polygon.js version 1.9",
-  "main": "./dist/index",
+  "main": "./src/index",
   "files": [
-    "dist/"
+    "src/"
   ],
   "dependencies": {},
   "devDependencies": {
