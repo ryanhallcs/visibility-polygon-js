@@ -279,7 +279,7 @@ VisibilityPolygon.convertToSegments = function(polygons, segments) {
 			idx ++;
 		}
 	}
-	segments.splice(0, idx);
+	segments.slice(0, idx);
 	return segments;
 };
 
